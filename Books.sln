@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Books.Core", "Books.Busines
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Books.API.Test", "src\Books.API.Test\Books.API.Test.csproj", "{7262401E-1421-4120-9B71-A1F0581D9DE7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Books.Mvc", "src\Books.Mvc\Books.Mvc.csproj", "{BE46A71E-F332-452E-8ADE-5019FA8065BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Books.AdminUI", "src\Books.Mvc\Books.AdminUI.csproj", "{BE46A71E-F332-452E-8ADE-5019FA8065BD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Service", "6. Service", "{EAD965D4-9BE1-49A9-9473-7BBA081987C0}"
 EndProject
